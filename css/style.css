@@ -159,8 +159,6 @@ body {
 .main_block_picture>img {
    height: auto;
    width: 100%;
-<<<<<<< Updated upstream
-=======
 }
 
 /* -------------- 2nd block -------------- */
@@ -738,5 +736,4 @@ li.footer_wk a:hover {
 }
 li.footer_yt a:hover {
    background-position: -62px -114px;
->>>>>>> Stashed changes
 }
