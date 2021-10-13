@@ -426,6 +426,9 @@ input:-webkit-autofill {
       padding: 155px 20px 30px 20px;
    }
 }
+.proposition_card:last-child {
+   margin: 0;
+}
 @media (max-width: 580px) {
    .proposition_card:nth-of-type(1) {
       background:
